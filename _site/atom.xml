@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>睿咨询-提供专业IT咨询</title>
+ <link href="http://www.ruzixun.com/atom.xml" rel="self"/>
+ <link href="http://www.ruzixun.com/"/>
+ <updated>2017-09-30T20:20:27+08:00</updated>
+ <id>http://www.ruzixun.com</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>关于睿咨询</title>
+   <link href="http://www.ruzixun.com/2017/09/30/desc.html"/>
+   <updated>2017-09-30T00:00:00+08:00</updated>
+   <id>http://www.ruzixun.com/2017/09/30/desc</id>
+   <content type="html">&lt;p&gt;关于睿咨询&lt;/p&gt;
+
+&lt;p&gt;一个来自豫北农村的孩子的关于平等获取信息的想法，&lt;/p&gt;
+
+&lt;h4 id=&quot;section&quot;&gt;我是做什么的&lt;/h4&gt;
+
+&lt;p&gt;现在深圳一家互联网公司从事软件开发。深刻感受到在这个互联网时代，获取信息还是如此的不平等。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-1&quot;&gt;为什么说信息不平等&lt;/h4&gt;
+&lt;p&gt;毕业于豫北一个普通二本院校的我，一直感觉自己很幸运，搭上互联网这船。可以在大城市某得一份工作的。在百度、腾讯的工作经历，让我见过很多优秀的人。 也让我深深的感觉了差距。这些差距体现在知识的广度、深度、学习能力。同样是大学，是什么造成这种差距。很多人说是高中基础，我不敢苟同。 我认为最大的差距是获取信息不平等，使得知识获取不平等。
+高人指点，醍醐灌顶，虽然只是成语，但是在现实的生活中确实也是存在，有可能别人一句话，可以让你少走弯路。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-2&quot;&gt;我能做什么&lt;/h4&gt;
+
+&lt;p&gt;毕业三年多了，我一直怀念大学时光。我也记得自己对外边世界的向往和迷茫。没有目的、没有明确方向的。听着老师说就业困难，可还是过着闲的没有任何时间。听着老师讲着c,c++,java看着彩色显示器黑白色的画面。却不知道写这写字母是为了做什么？完全没有体会到编程乐趣。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-3&quot;&gt;我想做什么&lt;/h4&gt;
+
+&lt;p&gt;我想尽力的帮助类似曾经自己人，我尽可能根据自己的经历结合自己对互联网的了解，提供软件开发语言、设计、发展有疑惑的解答。
+我非常赞同，李彦宏在创建百度的愿望（百度一直致力于让网民更平等的获取信息）。同时，我也希望自己为平等获取信息添砖撂瓦&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

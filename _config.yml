@@ -1,1 +1,37 @@
-theme: jekyll-theme-minimal
+#
+#Dependencies
+markdown:            kramdown
+highlighter:         Rouge
+
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           redcarpet
+relative_permalinks: false
+
+# Gems
+gems: [jekyll-paginate]
+
+
+# Setup
+permalink:            date
+title:               '睿咨询-提供专业IT咨询'
+author:              'reage'
+tagline:             ''
+description:         ''
+url:                 http://www.ruzixun.com
+baseurl:             /
+paginate:            5
+paginate_path:       "page:num"
+
+
+# Custom vars
+version:             1.5.0
+
+# post
+
+post_affix:         'articles from ruizixun blog'
+zixun_mail:         'zixun@ruizixun.com'
+
+
